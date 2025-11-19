@@ -10,23 +10,23 @@
 ┌──────────────────────────────────────────────────────────┐
 │  Our Solution                                            │
 │                                                          │
-│  RootRise is an innovative AI-powered platform that     │
-│  provides comprehensive business transformation         │
-│  services to small and medium enterprises. Our          │
-│  solution leverages artificial intelligence and         │
-│  machine learning algorithms to analyze business        │
-│  operations across multiple dimensions including        │
-│  operations, finance, marketing, technology, and        │
-│  supply chain management. Through our proprietary       │
-│  diagnostic framework, we are able to identify          │
-│  inefficiencies and opportunities for improvement       │
-│  that would typically require expensive consulting      │
-│  engagements. The platform then generates a            │
-│  customized transformation roadmap that is tailored     │
-│  to each specific business's unique needs and          │
-│  constraints. Our approach combines automated           │
-│  analysis with human expertise to deliver results       │
-│  that are both affordable and effective.                │
+│  RootRise is an innovative AI-powered platform that      │
+│  provides comprehensive business transformation          │
+│  services to small and medium enterprises. Our           │
+│  solution leverages artificial intelligence and          │
+│  machine learning algorithms to analyze business         │
+│  operations across multiple dimensions including         │
+│  operations, finance, marketing, technology, and         │
+│  supply chain management. Through our proprietary        │
+│  diagnostic framework, we are able to identify           │
+│  inefficiencies and opportunities for improvement        │
+│  that would typically require expensive consulting       │  
+│  engagements. The platform then generates a              │
+│  customized transformation roadmap that is tailored      │
+│  to each specific business's unique needs and            │
+│  constraints. Our approach combines automated            │
+│  analysis with human expertise to deliver results        │
+│  that are both affordable and effective.                 │
 └──────────────────────────────────────────────────────────┘
 ```
 
@@ -43,16 +43,16 @@
 ```
 ┌──────────────────────────────────────────────────────────┐
 │                                                          │
-│  RootRise: AI-Powered Transformation                    │
+│  RootRise: AI-Powered Transformation                     │
 │                                                          │
-│  [Large product screenshot or diagram]                  │
+│  [Large product screenshot or diagram]                   │
 │                                                          │
-│  ┌─────────┐  ┌─────────┐  ┌─────────┐               │
-│  │ DIAGNOSE│→│ ROADMAP │→│IMPLEMENT│                 │
-│  │ 48 hours│  │ 1 week  │  │ 3 months│                 │
-│  └─────────┘  └─────────┘  └─────────┘               │
+│  ┌─────────┐  ┌─────────┐  ┌─────────┐                   │
+│  │ DIAGNOSE│→ │ ROADMAP │→ │IMPLEMENT│                   │
+│  │ 48 hours│  │ 1 week  │  │ 3 months│                   │
+│  └─────────┘  └─────────┘  └─────────┘                   │
 │                                                          │
-│  Transform your business at 1/30th the cost             │
+│  Transform your business at 1/30th the cost              │
 │                                                          │
 └──────────────────────────────────────────────────────────┘
 ```
@@ -88,13 +88,13 @@ Problems Facing Egyptian SMEs Today:
 ✅ **GOOD:**
 ```
 ┌──────────────────────────────────────┐
-│  Egyptian SMEs Are Stuck            │
+│  Egyptian SMEs Are Stuck             │
 │                                      │
-│  [Powerful image: struggling SME]   │
+│  [Powerful image: struggling SME]    │
 │                                      │
-│  90% lack digital transformation    │
-│  40% below potential productivity   │
-│  €2B lost annually                  │
+│  90% lack digital transformation     │
+│  40% below potential productivity    │
+│  €2B lost annually                   │
 │                                      │
 └──────────────────────────────────────┘
 ```
@@ -122,17 +122,17 @@ Market Opportunity Analysis:
 ✅ **GOOD:**
 ```
 ┌────────────────────────────────────┐
-│  €2.5B Market Opportunity         │
+│  €2.5B Market Opportunity          │
 │                                    │
-│     ╭────────────────╮            │
-│     │  2.5M SMEs     │  TAM: €2.5B│
-│     ├────────────────┤            │
-│     │   750K Target  │  SAM: €750M│
-│     ├────────────────┤            │
-│     │  100K Y1-3     │  SOM: €120M│
-│     ╰────────────────╯            │
+│     ╭────────────────╮             │
+│     │  2.5M SMEs     │  TAM: €2.5B │
+│     ├────────────────┤             │
+│     │   750K Target  │  SAM: €750M │
+│     ├────────────────┤             │
+│     │  100K Y1-3     │  SOM: €120M │
+│     ╰────────────────╯             │
 │                                    │
-│  Egypt → MENA → Global            │
+│  Egypt → MENA → Global             │
 └────────────────────────────────────┘
 ```
 
@@ -160,12 +160,12 @@ scale our operations and expand our sales efforts...
 ┌────────────────────────────────────┐
 │  Early Momentum                    │
 │                                    │
-│  ┌──────┐  ┌──────┐  ┌──────┐   │
-│  │  10  │  │   3  │  │ €5K  │   │
-│  │Pilots│  │Paying│  │ MRR  │   │
-│  └──────┘  └──────┘  └──────┘   │
+│  ┌──────┐  ┌──────┐  ┌──────┐      │
+│  │  10  │  │   3  │  │ €5K  │      │
+│  │Pilots│  │Paying│  │ MRR  │      │
+│  └──────┘  └──────┘  └──────┘      │
 │                                    │
-│  ↗ Growing 40% MoM                │
+│        ↗ Growing 40% MoM           │
 │                                    │
 │  [Customer testimonial quote]      │
 └────────────────────────────────────┘
@@ -280,13 +280,13 @@ account management."
 ┌─────────────────────────────────────────┐
 │  Three Ways to Transform                │
 │                                         │
-│  ┏━━━━━━━━━┓ ┏━━━━━━━━━┓ ┏━━━━━━━━━┓│
-│  ┃DIAGNOSE ┃ ┃ADVISORY ┃ ┃TRANSFORM┃│
-│  ┃ €500/mo ┃ ┃€1,500/mo┃ ┃€3,000/mo┃│
-│  ┃Self-serv┃ ┃+ Experts┃ ┃Full supp┃│
-│  ┗━━━━━━━━━┛ ┗━━━━━━━━━┛ ┗━━━━━━━━━┛│
+│  ┏━━━━━━━━━┓ ┏━━━━━━━━━┓ ┏━━━━━━━━━┓    │
+│  ┃DIAGNOSE ┃ ┃ADVISORY ┃ ┃TRANSFORM┃    │
+│  ┃ €500/mo ┃ ┃€1,500/mo┃ ┃€3,000/mo┃    │
+│  ┃Self-serv┃ ┃+ Experts┃ ┃Full supp┃    │
+│  ┗━━━━━━━━━┛ ┗━━━━━━━━━┛ ┗━━━━━━━━━┛    │
 │                                         │
-│  vs. €100K+ for traditional consulting │
+│  vs. €100K+ for traditional consulting  │
 └─────────────────────────────────────────┘
 ```
 
